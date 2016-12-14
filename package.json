@@ -1,0 +1,37 @@
+{
+  "name": "c2addon-utility",
+  "version": "0.1.0",
+  "description": "A module to manage .c2addon files from COnstruct 2",
+  "homepage": "",
+  "author": {
+    "name": "Armaldio",
+    "email": "armaldio@gmail.com",
+    "url": "armaldio.xyz"
+  },
+  "main": "lib/index.js",
+  "keywords": [
+    "construct2",
+    "ace"
+  ],
+  "repository": "armaldio/c2addon-utility",
+  "scripts": {
+    "glob-inst": "npm i -g .",
+    "test": "",
+    "publish-please": "publish-please",
+    "prepublish": "publish-please guard"
+  },
+  "bin": {
+    "c2addon": "bin/utility.js"
+  },
+  "preferGlobal": true,
+  "license": "MIT",
+  "dependencies": {
+    "c2-addon-parser": "^0.4.0",
+    "folder-zip": "0.0.5",
+    "fs-extra": "^1.0.0",
+    "tmp": "0.0.31"
+  },
+  "devDependencies": {
+    "publish-please": "^2.2.0"
+  }
+}
