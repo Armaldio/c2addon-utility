@@ -42,7 +42,7 @@ c2addon pack browser somepath/Desktop
 
 ## License
 
-MIT © [Armaldio](armaldio.xyz)
+MIT © [Armaldio](http://www.armaldio.xyz)
 
 
 [npm-image]: https://badge.fury.io/js/c2addon-utility.svg

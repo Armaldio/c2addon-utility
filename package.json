@@ -1,7 +1,7 @@
 {
   "name": "c2addon-utility",
   "version": "0.1.0",
-  "description": "A module to manage .c2addon files from COnstruct 2",
+  "description": "A module to manage .c2addon files from Construct 2",
   "homepage": "",
   "author": {
     "name": "Armaldio",
