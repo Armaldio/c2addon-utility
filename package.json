@@ -29,7 +29,7 @@
     "c2-addon-parser": "^0.4.0",
     "folder-zip": "0.0.5",
     "fs-extra": "^1.0.0",
-    "tmp": "0.0.31"
+    "tmp": "0.0.33"
   },
   "devDependencies": {
     "publish-please": "^2.2.0"
