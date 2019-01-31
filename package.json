@@ -26,7 +26,7 @@
   "preferGlobal": true,
   "license": "MIT",
   "dependencies": {
-    "c2-addon-parser": "^0.4.0",
+    "c2-addon-parser": "^0.6.3",
     "folder-zip": "0.0.5",
     "fs-extra": "^1.0.0",
     "tmp": "0.0.31"
