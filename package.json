@@ -28,7 +28,7 @@
   "dependencies": {
     "c2-addon-parser": "^0.4.0",
     "folder-zip": "0.0.5",
-    "fs-extra": "^1.0.0",
+    "fs-extra": "^7.0.1",
     "tmp": "0.0.31"
   },
   "devDependencies": {
